@@ -37,7 +37,7 @@
 ## 【 Integrated Development Environment - IDE 】
  
  * Arduino
-   *  [Arduino IDE v1.6.4](https://www.arduino.cc/en/Main/OldSoftwareReleases)
+   *  [Arduino IDE v1.8.2](https://www.arduino.cc/en/Main/Software)
  * Python
    * [Sublime Text](https://www.sublimetext.com/)
    * [Visual Studio Code](https://code.visualstudio.com/b?utm_expid=101350005-27.GqBWbOBuSRqlazQC_nNSRg.1&utm_referrer=https%3A%2F%2Fwww.google.com.tw%2F)

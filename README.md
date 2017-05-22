@@ -27,7 +27,7 @@
 
 * [LinkIt 7697](https://www.seeedstudio.com/LinkIt-7697-p-2818.html)
 * [Grove Breakout for LinkIt 7697](https://www.seeedstudio.com/Grove-Breakout-for-LinkIt-7697-p-2835.html)
-* [Grove - Temperature&Humidity Sensor Pro](https://www.seeedstudio.com/Grove-Temperature%26Humidity-Sensor-Pro-p-838.html)
+* [Grove - Temperature & Humidity Sensor Pro](https://www.seeedstudio.com/Grove-Temperature%26Humidity-Sensor-Pro-p-838.html)
 * [Grove - OLED Display 1.12"](https://www.seeedstudio.com/Grove-OLED-Display-1.12%22-p-824.html)
 
 ## 【 Pin-out Diagram 】

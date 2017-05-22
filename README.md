@@ -48,7 +48,7 @@
 ## 【 Library 】
 
 * DHT
-   * [Arduino Library](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor)
+   *  到 [Seeed Arduino Library Github](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor) 頁面中的右上角下載整個 ZIP 檔
    *  在 Arduino Sketch 中點選```草稿碼``` ➙ ```匯入程式庫``` ➙ ```管理程式庫``` ➙ 右上角搜尋欄位輸入 ```DHT```
 * Seeed OLED Display 128*64 library
    *  到 [Seeed OLED library Github](https://github.com/Seeed-Studio/OLED_Display_128X64) 頁面中的右上角下載整個 ZIP 檔

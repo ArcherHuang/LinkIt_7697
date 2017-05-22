@@ -28,7 +28,12 @@
 * [LinkIt 7697](https://www.seeedstudio.com/LinkIt-7697-p-2818.html)
 * [Grove Breakout for LinkIt 7697](https://www.seeedstudio.com/Grove-Breakout-for-LinkIt-7697-p-2835.html)
 * [Grove - Temperature & Humidity Sensor Pro](https://www.seeedstudio.com/Grove-Temperature%26Humidity-Sensor-Pro-p-838.html)
-* [Grove - OLED Display 1.12"](https://www.seeedstudio.com/Grove-OLED-Display-1.12%22-p-824.html)
+* [Grove - OLED Display 0.96"](https://www.seeedstudio.com/Grove-OLED-Display-0.96%22-p-781.html)
+* [Grove - Ultrasonic Ranger](https://www.seeedstudio.com/Grove-Ultrasonic-Ranger-p-960.html)
+* [Grove - Relay](https://www.seeedstudio.com/Grove-Relay-p-769.html)
+* [Grove - Light Sensor](https://www.seeedstudio.com/Grove-Light-Sensor-v1.2-p-2727.html)
+* [Grove - LED Bar](https://www.seeedstudio.com/Grove-LED-Bar-v2.0-p-2474.html)
+* [Grove – Servo](https://www.seeedstudio.com/Grove-Servo-p-1241.html)
 
 ## 【 Pin-out Diagram 】
 ![Imgur](http://i.imgur.com/hhcMv9w.png)

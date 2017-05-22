@@ -25,10 +25,9 @@
 
 ## 【 Board and Sensor 】
 
-* [LinkIt Smart 7688 Duo](https://www.seeedstudio.com/LinkIt-Smart-7688-Duo-p-2574.html)
-* [Arduino Breakout for LinkIt Smart 7688 Duo](https://www.seeedstudio.com/Arduino-Breakout-for-LinkIt-Smart-7688-Duo-p-2576.html)
-* [Grove - Temperature & Humidity Sensor](https://www.seeedstudio.com/Grove-Temp%26Humi-Sensor-p-745.html)
-* [Grove - Dust Sensor](https://www.seeedstudio.com/Grove-Dust-Sensor-p-1050.html)
+* [LinkIt 7697](https://www.seeedstudio.com/LinkIt-7697-p-2818.html)
+* [Grove Breakout for LinkIt 7697](https://www.seeedstudio.com/Grove-Breakout-for-LinkIt-7697-p-2835.html)
+* [Grove - Temperature&Humidity Sensor Pro](https://www.seeedstudio.com/Grove-Temperature%26Humidity-Sensor-Pro-p-838.html)
 * [Grove - OLED Display 1.12"](https://www.seeedstudio.com/Grove-OLED-Display-1.12%22-p-824.html)
 
 ## 【 Pin-out Diagram 】

@@ -42,13 +42,14 @@
  
  * Arduino
    *  [Arduino IDE v1.8.2](https://www.arduino.cc/en/Main/Software)
- * Python
-   * [Sublime Text](https://www.sublimetext.com/)
-   * [Visual Studio Code](https://code.visualstudio.com/b?utm_expid=101350005-27.GqBWbOBuSRqlazQC_nNSRg.1&utm_referrer=https%3A%2F%2Fwww.google.com.tw%2F)
-   * [Jupyter](http://jupyter.org/)
-     * Command: ipython notebook
+   
+## 【 CP2102N USB-to-UART 驅動程式 】
+ * http://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+ 
+## 【 Arduino IDE 設定 】
 
-## 【 Firmware 】
+ * 檔案(File) ➙ 偏好設定(Preferences) ➙ Additional Boards Manager URLs
+   * http://download.labs.mediatek.com/package_mtk_linkit_7697_index.json 
 
 ## 【 Library 】
 

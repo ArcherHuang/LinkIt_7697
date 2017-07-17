@@ -21,7 +21,7 @@
                 
 * 實作架構  
     
-## 【 File Description 】
+## File Description
       
 | 編號 | 資料夾 |  檔案名稱 | 說明  |
 |---|---|---|---|
@@ -29,7 +29,7 @@
 |2|   |   |   |
 |3|   |   |   |
 
-## 【 Board and Sensor 】
+## Board and Sensor
 
 * [LinkIt 7697](https://www.seeedstudio.com/LinkIt-7697-p-2818.html)
 * [Grove Breakout for LinkIt 7697](https://www.seeedstudio.com/Grove-Breakout-for-LinkIt-7697-p-2835.html)

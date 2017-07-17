@@ -8,8 +8,8 @@
 - [Pinout Diagram](#pinout-diagram)
 - [IDE](#integrated-development-environment)
 - [CP2102N USB-to-UART 驅動程式](#cp2102n-usb-to-uart)
-- [IDE](#integrated-development-environment)
-- [IDE](#integrated-development-environment)
+- [Arduino IDE 設定](#arduino-ide)
+- [BlocklyDuino Editor](#blocklyduino-editor)
 
 ## Overview       
                                                                   
@@ -57,12 +57,12 @@
 ## CP2102N USB to UART 
  * http://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
  
-## 【 Arduino IDE 設定 】
+## Arduino IDE
 
  * 檔案(File) ➙ 偏好設定(Preferences) ➙ Additional Boards Manager URLs
    * http://download.labs.mediatek.com/package_mtk_linkit_7697_index.json 
    
-## 【 BlocklyDuino Editor 】
+## BlocklyDuino Editor
 
  * https://mediatek-labs.github.io/BlocklyDuino-for-LinkIt/blockly/apps/blocklyduino/index.html   
 

@@ -9,12 +9,12 @@ DHT dht(DHTPIN,DHTTYPE);
 #include <LWiFi.h>
 #include <HttpClient.h>
 
-char ssid[] = "";
-char pass[] = ""; 
+char ssid[] = "Input SSID";
+char pass[] = "Input Password"; 
 #define WIFI_AUTH LWIFI_WPA 
-#define deviceId "S1JU4sQbb" 
-#define deviceKey "bfd5b957791720f1a87ea2d4fb9890d8d5d920a4972e7a1eebe6e85d62b53626" 
-#define server "" 
+#define deviceId "Input DeviceID" 
+#define deviceKey "Input DeviceKey" 
+#define server "Input Server IP" 
 int rs_port = 3000;
 String content; 
 WiFiClient rs_client; 

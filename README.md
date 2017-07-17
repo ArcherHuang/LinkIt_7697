@@ -50,6 +50,10 @@
 
  * 檔案(File) ➙ 偏好設定(Preferences) ➙ Additional Boards Manager URLs
    * http://download.labs.mediatek.com/package_mtk_linkit_7697_index.json 
+   
+## 【 BlocklyDuino Editor 】
+
+ * https://mediatek-labs.github.io/BlocklyDuino-for-LinkIt/blockly/apps/blocklyduino/index.html   
 
 ## 【 Library 】
 

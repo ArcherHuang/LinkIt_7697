@@ -7,6 +7,9 @@
 - [開發板與感測器](#board-and-sensor)
 - [Pinout Diagram](#pinout-diagram)
 - [IDE](#integrated-development-environment)
+- [CP2102N USB-to-UART 驅動程式](#cp2102n-usb-to-uart)
+- [IDE](#integrated-development-environment)
+- [IDE](#integrated-development-environment)
 
 ## Overview       
                                                                   
@@ -51,7 +54,7 @@
  * Arduino
    *  [Arduino IDE v1.8.2](https://www.arduino.cc/en/Main/Software)
    
-## 【 CP2102N USB-to-UART 驅動程式 】
+## CP2102N USB to UART 
  * http://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
  
 ## 【 Arduino IDE 設定 】

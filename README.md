@@ -6,7 +6,7 @@
 - [檔案說明](#file-description)
 - [開發板與感測器](#board-and-sensor)
 
-## 【 Overview 】       
+## Overview       
                                                                   
 * 物聯網架構與應用                 
                                                                                                                                          

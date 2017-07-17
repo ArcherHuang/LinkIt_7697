@@ -1,7 +1,5 @@
 # Welcome to LinkIt 7697 
 
-[![GoDoc](https://godoc.org/github.com/appleboy/gorush?status.svg)](https://godoc.org/github.com/appleboy/gorush)
-
 ## Contents
 
 - [Overview](#overview)

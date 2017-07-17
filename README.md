@@ -80,7 +80,9 @@
 * DHT
    *  到 [Seeed Arduino Library Github](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor) 頁面中的右上角下載整個 ZIP 檔
    *  在 Arduino Sketch 中點選```草稿碼``` ➙ ```匯入程式庫``` ➙ ```加入 .ZIP 程式庫```  ➙ 選擇上一步驟所下載的 ZIP 檔
+
 * Seeed OLED Display 128*64 library
+
    *  到 [Seeed OLED library Github](https://github.com/Seeed-Studio/OLED_Display_128X64) 頁面中的右上角下載整個 ZIP 檔
    *  在 Arduino Sketch 中點選```草稿碼``` ➙ ```匯入程式庫``` ➙ ```加入 .ZIP 程式庫```  ➙ 選擇上一步驟所下載的 ZIP 檔
       
@@ -92,6 +94,7 @@
 * [IBM Bluemix](https://console.ng.bluemix.net/)
 * [MediaTek Cloud Sandbox](https://mcs.mediatek.com)
 * [MediaTek Cloud Sandbox Lite](https://github.com/MCS-Lite/mcs-lite-app/releases)
+   *  ``` http://MCS Lite IP:3000 ```
 * [ThingSpeak](https://thingspeak.com/)
 * [ThinkSpeak Data Visualization](nrl.iis.sinica.edu.tw/LASS/PM25.php?site=III&city=台北市&district=信義區&channel=152239&apikey=9ND1FVDPKLQGPDRI)
 

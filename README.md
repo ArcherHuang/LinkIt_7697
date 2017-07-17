@@ -1,5 +1,7 @@
 # Programs running on LinkIt 7697 that connects to IoT Platform
 
+[![GoDoc](https://godoc.org/github.com/appleboy/gorush?status.svg)](https://godoc.org/github.com/appleboy/gorush)
+
 ## Contents
 
 - [Overview](#overview)

@@ -1,7 +1,7 @@
 // DHT
 #include "DHT.h"
-#define DHTPIN A0      
-#define DHTTYPE DHT22  
+#define DHTPIN 2      
+#define DHTTYPE DHT11  
 
 DHT dht(DHTPIN,DHTTYPE);
 

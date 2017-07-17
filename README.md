@@ -106,7 +106,7 @@
 ## Blog
 * [Archer @ 部落格](https://github.com/ArcherHuang/MyBlog/blob/master/README.md)
 
-## License [Back](#contents)
+## License
 
 The MIT License (MIT)
 

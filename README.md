@@ -5,6 +5,8 @@
 - [Overview](#overview)
 - [檔案說明](#file-description)
 - [開發板與感測器](#board-and-sensor)
+- [Pinout Diagram](#pinout-diagram)
+- [IDE](#integrated-development-environment)
 
 ## Overview       
                                                                   
@@ -41,10 +43,10 @@
 * [Grove - LED Bar](https://www.seeedstudio.com/Grove-LED-Bar-v2.0-p-2474.html)
 * [Grove – Servo](https://www.seeedstudio.com/Grove-Servo-p-1241.html)
 
-## 【 Pin-out Diagram 】
+## Pinout Diagram
 ![Imgur](http://i.imgur.com/hhcMv9w.png)
 
-## 【 Integrated Development Environment - IDE 】
+## Integrated Development Environment
  
  * Arduino
    *  [Arduino IDE v1.8.2](https://www.arduino.cc/en/Main/Software)

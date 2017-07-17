@@ -10,6 +10,12 @@
 - [CP2102N USB-to-UART 驅動程式](#cp2102n-usb-to-uart)
 - [Arduino IDE 設定](#arduino-ide)
 - [BlocklyDuino Editor](#blocklyduino-editor)
+- [Library](#library)
+- [JSON Tools](#json-tools)
+- [Service](#service)
+- [Reference](#reference)
+- [Blog](#blog)
+- [License](#license)
 
 ## Overview       
                                                                   
@@ -66,7 +72,7 @@
 
  * https://mediatek-labs.github.io/BlocklyDuino-for-LinkIt/blockly/apps/blocklyduino/index.html   
 
-## 【 Library 】
+## Library
 
 * LinkIt 7697 peripheral drivers for arduino
    * https://github.com/MediaTek-Labs/linkit-7697-peripheral-drivers-for-arduino
@@ -78,7 +84,7 @@
    *  到 [Seeed OLED library Github](https://github.com/Seeed-Studio/OLED_Display_128X64) 頁面中的右上角下載整個 ZIP 檔
    *  在 Arduino Sketch 中點選```草稿碼``` ➙ ```匯入程式庫``` ➙ ```加入 .ZIP 程式庫```  ➙ 選擇上一步驟所下載的 ZIP 檔
       
-## 【 Service 】
+## Service
 
 * [WoT.City](https://wotcity.com/)
 * [Amazon Web Services Cloud](https://aws.amazon.com/tw/)
@@ -89,25 +95,18 @@
 * [ThingSpeak](https://thingspeak.com/)
 * [ThinkSpeak Data Visualization](nrl.iis.sinica.edu.tw/LASS/PM25.php?site=III&city=台北市&district=信義區&channel=152239&apikey=9ND1FVDPKLQGPDRI)
 
-## 【 Firmware 】
-
-## 【 Tools 】
-
-## 【 JSON Tools 】
+## JSON Tools
  * [JSON Lint](http://jsonlint.com/)
  * [JSON Editor Online](http://www.jsoneditoronline.org/)
 
-## 【 Troubleshooting 】
-
-
-## 【 Reference 】
+## Reference
 
 * [LinkIt 7697 Developer’s Guide](https://labs.mediatek.com/zh-tw/chipset/MT7697)
 
-## 【 Blog 】
+## Blog
 * [Archer @ 部落格](https://github.com/ArcherHuang/MyBlog/blob/master/README.md)
 
-## 【 License 】
+## License
 
 The MIT License (MIT)
 

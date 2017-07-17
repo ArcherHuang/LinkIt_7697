@@ -57,6 +57,9 @@
 
 ## 【 Library 】
 
+* LinkIt 7697 peripheral drivers for arduino
+   * https://github.com/MediaTek-Labs/linkit-7697-peripheral-drivers-for-arduino
+   
 * DHT
    *  到 [Seeed Arduino Library Github](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor) 頁面中的右上角下載整個 ZIP 檔
    *  在 Arduino Sketch 中點選```草稿碼``` ➙ ```匯入程式庫``` ➙ ```加入 .ZIP 程式庫```  ➙ 選擇上一步驟所下載的 ZIP 檔

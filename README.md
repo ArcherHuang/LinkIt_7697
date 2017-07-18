@@ -12,6 +12,7 @@
 - [BlocklyDuino Editor](#blocklyduino-editor)
 - [Library](#library)
 - [JSON Tools](#json-tools)
+- [Online UUID Generator](#online-uuid-generator)
 - [Service](#service)
 - [Reference](#reference)
 - [Blog](#blog)
@@ -110,6 +111,11 @@
 
  * [JSON Lint](http://jsonlint.com/)
  * [JSON Editor Online](http://www.jsoneditoronline.org/)
+
+## Online UUID Generator
+[Back](#contents)
+
+* [UUID Generator](https://www.uuidgenerator.net/)
 
 ## Reference
 [Back](#contents)

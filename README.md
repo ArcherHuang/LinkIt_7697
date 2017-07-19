@@ -120,6 +120,8 @@
 ## Reference
 [Back](#contents)
 
+* [Seeed Wiki](http://wiki.seeed.cc/)
+
 * [LinkIt 7697 Developer’s Guide](https://labs.mediatek.com/zh-tw/chipset/MT7697)
 
 ## Blog

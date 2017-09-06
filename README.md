@@ -99,15 +99,8 @@
 ## Service
 [Back](#contents)
 
-* [WoT.City](https://wotcity.com/)
-* [Amazon Web Services Cloud](https://aws.amazon.com/tw/)
-* [Google Firebase](https://firebase.google.com/)
-* [IBM Bluemix](https://console.ng.bluemix.net/)
-* [MediaTek Cloud Sandbox](https://mcs.mediatek.com)
-* [MediaTek Cloud Sandbox Lite](https://github.com/MCS-Lite/mcs-lite-app/releases)
-   *  ```http://MCS Lite IP:3000```
-* [ThingSpeak](https://thingspeak.com/)
-* [ThinkSpeak Data Visualization](nrl.iis.sinica.edu.tw/LASS/PM25.php?site=III&city=台北市&district=信義區&channel=152239&apikey=9ND1FVDPKLQGPDRI)
+* [MCS](https://mcs.mediatek.com/)
+* [MCS Lite](https://github.com/MCS-Lite/mcs-lite-app/releases)
 
 ## JSON Tools
 [Back](#contents)

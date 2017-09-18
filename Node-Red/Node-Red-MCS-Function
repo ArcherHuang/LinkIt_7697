@@ -1,0 +1,4 @@
+var temHum = JSON.parse(msg.payload);  
+msg.payload = {"datapoints":[{"dataChnId":"Humidity","values":{"value":temHum.humidity}},{"dataChnId":"Temperature","values":{"value":temHum.temperature}}]};  
+msg.headers = {'content-type':'application/json','deviceKey' : 'FpowFssLUbshlg4j'};  
+return msg;

@@ -1,0 +1,5 @@
+var temHum = JSON.parse(msg.payload);  
+var thinkSpeakApiKey = 'FO0R4R5EL3KCC5SI';  
+msg.payload = {'field1': temHum.temperature, 'field2': temHum.humidity, 'key': thinkSpeakApiKey};  
+msg.headers = {'Content-type': 'application/x-www-form-urlencoded','Accept': 'text/plain'};  
+return msg;

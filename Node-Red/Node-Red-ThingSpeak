@@ -1,0 +1,1 @@
+[{"id":"9d8438a9.02b838","type":"http request","z":"a81b613f.5712d","name":"ThingSpeak","method":"POST","ret":"txt","url":"http://api.thingspeak.com:80/update","tls":"","x":490,"y":240,"wires":[[]]}]

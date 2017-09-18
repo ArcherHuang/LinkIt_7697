@@ -1,0 +1,1 @@
+[{"id":"9d8438a9.02b838","type":"http request","z":"a81b613f.5712d","name":"Google Firebase","method":"POST","ret":"txt","url":"https://temperaturehumidity-cb0f7.firebaseio.com/Taipei/temperaturehumidity.json","tls":"","x":520,"y":228,"wires":[[]]}]

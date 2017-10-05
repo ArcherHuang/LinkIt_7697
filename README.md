@@ -76,8 +76,8 @@
 ## BlocklyDuino Editor
 [Back](#contents)
 
- * [On-Line]https://mediatek-labs.github.io/BlocklyDuino-for-LinkIt/blockly/apps/blocklyduino/index.html   
- * [Off-Line]https://github.com/MediaTek-Labs/BlocklyDuino-for-LinkIt
+ * [On-Line](https://mediatek-labs.github.io/BlocklyDuino-for-LinkIt/blockly/apps/blocklyduino/index.html)   
+ * [Off-Line](https://github.com/MediaTek-Labs/BlocklyDuino-for-LinkIt)
 
 ## Library
 [Back](#contents)

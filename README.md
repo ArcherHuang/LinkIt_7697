@@ -118,6 +118,9 @@
 ## Fritzing
 [Back](#contents)
 
+##
+[](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
 * [Software Download](http://fritzing.org/home/)
 
 ## Reference

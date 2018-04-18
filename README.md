@@ -13,6 +13,7 @@
 - [Library](#library)
 - [JSON Tools](#json-tools)
 - [Online UUID Generator](#online-uuid-generator)
+- [Fritzing Software Download](#fritzing)
 - [Service](#service)
 - [Reference](#reference)
 - [Blog](#blog)
@@ -113,6 +114,11 @@
 [Back](#contents)
 
 * [UUID Generator](https://www.uuidgenerator.net/)
+
+## Fritzing
+[Back](#contents)
+
+* [Software Download](http://fritzing.org/home/)
 
 ## Reference
 [Back](#contents)
